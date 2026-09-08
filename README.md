@@ -1,7 +1,5 @@
 # 🚀 GrowthElite – Premium LinkedIn Growth Landing Page
 
-🌐 **Live Website:** https://3-d-webinar-jet.vercel.app/
-
 ## 📌 Project Overview
 
 **GrowthElite** is a responsive, single-page landing page created as part of a **web development workshop**.
