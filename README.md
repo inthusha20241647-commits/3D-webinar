@@ -2,11 +2,7 @@
 
 ## 📌 Project Overview
 
-**GrowthElite** is a responsive, single-page landing page created as part of a **web development workshop**.
-
-The project focuses on building a professional landing page with a **LinkedIn profile audit form**, responsive design, Google Sheets integration, and a payment flow.
-
-This project was developed as a **workshop learning project** to practice frontend development and integrating external services.
+**GrowthElite** is a responsive, single-page landing page developed as part of a **web development workshop**. It features a LinkedIn profile audit form, responsive UI, Google Sheets integration, and a payment flow, providing hands-on experience in frontend development and external service integration.
 
 ### 🌐 Live Version
 
